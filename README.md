@@ -23,7 +23,7 @@ This is a a simple fun game ( Only For Desktop ). In the full blank screen there
 
 ### Links
 
-- Live Site URL: [https://tip-calculator-fmentor.netlify.app/](https://tip-calculator-fmentor.netlify.app/)
+- Live Site URL: [https://touch-me.netlify.app/](https://touch-me.netlify.app/)
 
 ## My process
 
