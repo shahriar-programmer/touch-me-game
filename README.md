@@ -1,6 +1,6 @@
 # Touch Me Game
 
-This is a a simple fun game. In the full blank screen there is a img which is your target to touch. The challenge is to touch the img with your mouse. Have a try. Good Luck :)
+This is a a simple fun game ( Only For Desktop ). In the full blank screen there is a image which is your target to touch. The challenge is to touch the image with your mouse. Have a try. Good Luck :)
 
 ## Table of contents
 
