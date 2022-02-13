@@ -15,10 +15,10 @@ This is a a simple fun game. In the full blank screen there is a img which is yo
 
 ### Screenshot
 
-![](./design/screenshot-1.jpg)
+![](./screenshots/screenshot-1.png)
 **Screenshot 1: Game Start**
 
-![](./design/screenshot-2.jpg)
+![](./screenshots/screenshot-2.png)
 **Screenshot 2: In Game**
 
 ### Links
